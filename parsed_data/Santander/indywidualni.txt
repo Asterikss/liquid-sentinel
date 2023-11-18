@@ -1,0 +1,28 @@
+procentowania kont oraz lokat terminowych dla klientów indywidualnych
+KONTA OSOBISTE – oprocentowanie zmienne
+Oprocentowanie
+Konto Santander
+0,00%
+dla posiadaczy rachunków w wieku 13 i więcej lat
+Konto Santander od 0,01 do 3.000 zł 6,00%
+dla posiadaczy rachunków do 13 roku życia nadwyżka powyżej 3.000 zł 0,00%
+Konto Santander Max 0,00%
+Konto Select 0,00%
+Konto Podstawowe 0,00%
+Konto Private Banking 0,00%
+KONTO MULTI OSZCZĘDNOŚCIOWE – oprocentowanie zmienne
+Saldo Oprocentowanie standardowe
+od 0,01 zł do 100.000 zł 1,00%
+powyżej 100.000 zł (dla całości salda) 1,00%
+KONTO OSZCZĘDNOŚCIOWE SELECT – oprocentowanie zmienne
+Kwota środków podlegająca oprocentowaniu Oprocentowanie
+do 100 tys. zł 2,00%
+nadwyżka powyżej 100 tys. zł 1,00%
+KONTO OSZCZĘDNOŚCIOWE PRIVATE BANKING – oprocentowanie zmienne
+Kwota środków podlegająca oprocentowaniu Oprocentowanie
+do 1.000.000 zł 4,00%
+nadwyżka powyżej 1.000.000 zł 1,00%
+LOKATY TERMINOWE – oprocentowanie stałe
+Okres Oprocentowanie
+3 miesiące 3,50%
+6 miesięc

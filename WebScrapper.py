@@ -9,7 +9,8 @@ import LinksGetter
 class WebScrapper:
 
     def __init__(self, url: str):
-        self.driver = webdriver.Chrome()
+        # self.driver = webdriver.Chrome()
+        self.driver = webdriver.Edge()
         chrome_opt = Options()
         chrome_opt.add_argument("--disable-extensions")
         self.driver.get(url)
