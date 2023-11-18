@@ -25,7 +25,7 @@ class LinksGetter:
 
 
 class PercLink:
-    def __init__(self, name: str, fiz: list[str], corp: list[str]):
+    def __init__(self, name: str, fiz: list, corp: list):
         self.name = name
         self.fiz = fiz
         self.corpo = corp

@@ -1,17 +1,16 @@
-from selenium.webdriver.common.by import By
 from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.remote.webelement import WebElement
+from selenium.webdriver.edge.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.edge.webdriver import WebDriver
 
 import LinksGetter
 
 
 class WebScrapper:
+    EDGE_PATH = 'edgedriver_win64/msedgedriver.exe'
 
     def __init__(self, url: str):
-        self.driver = webdriver.Chrome()
-        chrome_opt = Options()
-        chrome_opt.add_argument("--disable-extensions")
+        self.driver = webdriver.Edge(executable_path=WebScrapper.EDGE_PATH)
         self.driver.get(url)
 
 if __name__ == "__main__":
