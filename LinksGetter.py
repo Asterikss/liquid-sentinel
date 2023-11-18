@@ -27,8 +27,8 @@ class LinksGetter:
 class PercLink:
     def __init__(self, name: str, fiz: list, corp: list):
         self.name = name
-        self.fiz = fiz
-        self.corpo = corp
+        self.fiz = list(set(fiz))
+        self.corpo = list(set(corp))
 
     def __str__(self):
         return self.name + "\n" + str(self.fiz) + "\n" + str(self.corpo) + "\n========"
