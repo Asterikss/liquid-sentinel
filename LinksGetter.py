@@ -27,11 +27,11 @@ class LinksGetter:
 class PercLink:
     def __init__(self, name: str, fiz: list, corp: list):
         self.name = name
-        self.fiz = list(set(fiz))
-        self.corpo = list(set(corp))
+        self.person = list(set(fiz))
+        self.corporate = list(set(corp))
 
     def __str__(self):
-        return self.name + "\n" + str(self.fiz) + "\n" + str(self.corpo) + "\n========"
+        return self.name + "\n" + str(self.person) + "\n" + str(self.corporate) + "\n========"
 
     @staticmethod
     def getBanksFromTable():
@@ -48,3 +48,9 @@ class PercLink:
             except IndexError:
                 pass
         return percLinks
+
+#VeloBank
+#Santander
+#NestBank
+#ING Bank Śląski
+#Bank Millennium

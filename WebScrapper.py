@@ -41,9 +41,9 @@ if __name__ == "__main__":
     i = 0
     for bank in banks:
         print(bank.name + ":")
-        for r in [bank.fiz, bank.corpo]:
+        for r in [bank.person, bank.corporate]:
             try:
-                rodz = "person" if r == bank.fiz else "corporate"
+                rodz = "person" if r == bank.person else "corporate"
                 print(rodz + ":")
                 for link in r:
                     print(link)
