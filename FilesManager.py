@@ -34,5 +34,3 @@ class FilesManager:
                 if not os.path.exists(true_banks + "/" + bank_name + "/" + type):
                     os.mkdir(true_banks + "/" + bank_name + "/" + type)
                 shutil.copy(pdf_full_path, true_banks + "/" + bank_name + "/" + type)
-
-FilesManager.try_getting_best_bank_data_PDFs()
