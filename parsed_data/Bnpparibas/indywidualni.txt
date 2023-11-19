@@ -24,3 +24,38 @@ z Planem Taryfowym Moje Konto Premium 1,20%
 lub Bankowość Prywatna lub
 Bankowość Prywatna Diamond)
 4. Rachunek oszczędnościowy IKE w PLN Stawka WIBOR 3M ogłoszona bieżącego dnia roboczego
+Rozdział 3. Pozostałe rachunki
+Rachunek Oprocentowanie stałe
+1. Rachunek Walutowy w: EUR, USD, GBP i CHF 0,00%
+2. Rachunek Walutowy dla klientów Bankowości Prywatnej w: USD i GBP 0,00%
+3. Rachunek Walutowy dla klientów Bankowości Prywatnej w:
+0,00%
+EUR, CHF, SEK, CAD, JPY, DKK, NOK, CZK, HUF, AUD, TRY, HKD, BGN
+Obsługa gotówkowa prowadzona jest dla następujących walut: EUR, USD, CHF, GBP
+Rachunek Oprocentowanie zmienne
+4. Rachunek Zastrzeżony (Escrow) w PLN 0,10%
+5. Rachunek Zastrzeżony (Escrow) w EUR 0,00%
+6. Rachunek Zastrzeżony (Escrow) w USD 0,00%
+7. Rachunek Powierniczy w PLN 0,10%
+8. Rachunek Powierniczy w EUR 0,00%
+9. Rachunek Powierniczy w USD 0,00%
+10. Rachunek pieniężny w PLN w Biurze Maklerskim BNP Paribas Bank Polska S.A. 0,00%
+11. Rachunek Portfelowy w PLN 0,05* WIBID ON (stawka ogłoszona bieżącego dnia roboczego)
+BNP Paribas Bank Polska S.A. z siedzibą w Warszawie przy ul. Kasprzaka 2, 01-211 Warszawa, zarejestrowany w rejestrze przedsiębiorców Krajowego Rejestru Sądowego przez Sąd Rejonowy dla m. st. Warszawy w Warszawie,
+XIII Wydział Gospodarczy Krajowego Rejestru Sądowego pod nr KRS 0000011571, posiadający NIP 526-10-08-546 oraz kapitał zakładowy w wysokości 147 676 946 zł w całości wpłacony.Część II. Lokaty terminowe
+Rozdział 1. Lokata na Nowe Środki w PLN1) nieodnawialna dostępna w: Oddziale, Systemie Bankowości Internetowej GOonline i
+Aplikacji Mobilnej GOmobile
+Oprocentowanie stałe
+Okres lokacyjny minimalna kwota lokaty 1.000 PLN
+1. 3 miesiące 4,50%
+2. 6 miesięcy 4,50%
+3. 12 miesięcy 4,25%
+4. 18 miesięcy 4,25%
+1 Nowe Środki to suma dostępnych środków pieniężnych zgromadzonych na Rachunkach Klienta w momencie składania Dyspozycji otwarcia Lokaty na Nowe Środki, stanowiących nadwyżkę ponad Saldo
+Początkowe rozumiane jako łączne saldo dostępnych środków Klienta, zgromadzonych na Rachunkach Klienta według stanu na koniec dnia 25 października 2023 r. Za Rachunki Klienta uznaje się prowadzone
+na jego rzecz przez Bank indywidualne oraz wspólne rachunki oszczędnościowo-rozliczeniowe, rachunki oszczędnościowe, rachunki oszczędnościowe IKE, lokaty terminowe (uwzględnia się przy tym saldo
+środków na lokatach objętych blokadą), lokaty strukturyzowane oraz depozyty dwuwalutowe, prowadzone w złotych polskich i walutach obcych (za wyjątkiem rubli rosyjskich i dolarów hongkońskich). Środki
+w walutach obcych przelicza się na złote według Kursu Średniego NBP dla danej waluty obowiązującego na moment wyliczenia kwoty Nowych Środków/ Salda Początkowego. Lokata na Nowe Środki może
+zostać założona ze środków, które stanowią Nowe Środki i które nie zostały już wykorzystane na otwarcie innych lokat na Nowe Środki po dniu ustalenia Salda Początkowego. Nowe Środki wyliczane są odrębnie
+dla każdego Klienta. Dyspozycję otwarcia Lokaty na Nowe Środki może złożyć wyłącznie Posiadacz/ Współposiadacz rachunku, z którego ma być założona lokata.
+Rozdział 2. Lokata Filmowa w PLN, nieodnawialna otwierana Klientom posiadającym Konto Osobiste z Planem Taryfowym:

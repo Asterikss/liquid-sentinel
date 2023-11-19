@@ -32,4 +32,53 @@ Mieszkaniowy Rachunek
 PLN 0% nie dotyczy
 Powierniczy (Otwarty i Zamknięty)
 Rachunek VAT PLN 0% nie dotyczy
-Rachunek Kaucji jak dla rachun
+Rachunek Kaucji jak dla rachunków pomocniczych 0% nie dotyczy
+Rachunek Cesji Wierzytelności jak dla rachunków pomocniczych 0% nie dotyczy
+B. Tabela oprocentowania rachunków lokat terminowych
+Termin Lokaty Minimalna
+kwota
+Waluta
+1 miesiąc 90 dni3 3 miesiące 6 miesięcy 12
+miesięcy
+PLN 0,60% 1,00% 0,01% 0,80% 0,80% 1 000 PLN
+C. Tabela oprocentowania produktów o charakterze kredytowym
+Rodzaj Oprocentowanie Oprocentowanie przeterminowane
+Wszystkie produkty o charakterze kredytowym ustalane indywidualnie 2 x (stopa referencyjna NBP + 5,5 pp.)
+D. Tabela oprocentowania rachunków karty kredytowej
+Transakcje bezgotówkowe Transakcje gotówkowe Zobowiązania przeterminowane
+2 x (stopa referencyjna NBP + 5,5
+2 x (stopa referencyjna NBP + 3,5 pp.) 2 x (stopa referencyjna NBP + 3,5 pp.)
+pp.)
+1 W przypadku Klientów, którzy mają wysokość oprocentowania od dopuszczalnego debetu określoną w umowie zastosowanie ma
+niższa z wartości: wysokość oprocentowania określona w umowie lub wysokość oprocentowania określona jako Oprocentowanie salda
+debetowego w niniejszej tabeli.
+2 Promocyjne oprocentowanie środków obowiązuje dla posiadaczy Rachunku 4x4 z aktywnym Pakietem Oszczędnym.
+3 Lokata zostanie automatycznie odnowiona jako lokata 3-miesięczna.
+str. 1/3E. Numery ISIN indeksów
+Nazwa wskaźnika ISIN WALUTA Nazwa wskaźnika ISIN WALUTA
+WIRON - Warsaw Interest Rate PLN SARON 9M Compound Index CH0599147326 CHF
+Ovenight - indeks O/N PL9999996603 SARON 12M Compound Index CH0599147334 CHF
+WIRON 1M Compound Rate - PLN SARON 1W Compound Rate CH0599147342 CHF
+indeks na termin predefiniowany SARON 1M Compound Rate CH0477123886 CHF
+1M oparty o WIRON PL9999996595 SARON 1 IMM Compound Rate CH0477123860 CHF
+WIRON 3M Compound Rate PLN SARON 2M Compound Rate CH0477123894 CHF
+indeks na termin predefiniowany SARON 3M Compound Rate CH0477123902 CHF
+3M oparty o WIRON PL9999996587 SARON 3 IMM Compound Rate CH0477123878 CHF
+WIRON 6M Compound Rate - PLN SARON 6M Compound Rate CH0477123910 CHF
+indeks na termin predefiniowany SARON 9M Compound Rate CH0477123928 CHF
+6M oparty o WIRON PL9999996579 SARON 12M Compound Rate CH0049613687 CHF
+WIRONCI – WIRON Compound PLN EUR 3M LIBOR GB0003682589 EUR
+Index – WIRON indeks USD 3M LIBOR GB00BD080714 USD
+jednopodstawowy PL9999996561 CHF 3M LIBOR GB00BD080C69 CHF
+EURIBOR 1W EU0009678507 EUR GBP 3M LIBOR GB0009655183 GBP
+EURIBOR 1M EU0009659937 EUR USD 1M LIBOR GB0003758058 USD
+EURIBOR 3M EU0009652783 EUR GBP 1M LIBOR GB00BD07ZZ10 GBP
+EURIBOR 6M EU0009652791 EUR USD 6M LIBOR GB0003764668 USD
+EURIBOR 12M EU0009652809 EUR CHF 6M LIBOR GB0003111555 CHF
+EONIA ON EU0009659945 EUR GBP 6M LIBOR GB0003764551 GBP
+ESTR ON EU000A2X2A25 EUR JPY 6M LIBOR GB00BD080K44 JPY
+ESTR (compunded average) 1W EU000A2QQF16 EUR SOFR ON - USD
+ESTR (compunded average) 1M EU000A2QQF24 EUR WIBOR 1M PL9999999557 PLN
+ESTR (compunded average) 3M EU000A2QQF32 EUR WIBOR 1Y PL9999999177 PLN
+ESTR (compunded average) 6M EU000A2QQF40 EUR WIBOR 1W PL9999999201 PLN
+ESTR (compunded average) 12M EU000A2QQF57 EUR WIBOR 2W PL9999999193 

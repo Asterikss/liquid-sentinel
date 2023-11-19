@@ -45,4 +45,156 @@ Oprocentowanie należności
 Rodzaj rachunku Waluta (zmienna stopa przeterminowanych
 procentowa) (zmienna stopa
 procentowa)
-Rachu
+Rachunek Oszczędnościowy
+PLN 0,01%
+Private Banking
+do 99 999,99 PLN
+0,75%
+Rachunek Oszczędnościowy
+PLN nadwyżka ponad
+Private Banking MAX 19,00%
+99 999,99 PLN
+1,00%
+premium3 1,50%
+Rachunek umożliwiający
+PLN standard 0,50%
+regularne oszczędzanie
+wspieraj cały rok 0,00%
+1 rachunek wycofany ze sprzedaży od dnia 12.11.2018 r.
+2 klientom Private Banking przysługuje prawo negocjacji oprocentowania PLN
+3 oprocentowanie premium naliczane jest, gdy suma wpływów w bieżącym miesiącu jest wyższa co najmniej o
+100,00 PLN od sumy obciążeń. Warunek jest weryfikowany ostatniego dnia roboczego miesiąca, w odniesieniu
+do wszystkich rachunków umożliwiających regularne oszczędzanie, powiązanych z tym samym rachunkiem
+oszczędnościowo-rozliczeniowym.
+2/5III. Lokaty Private Banking
+a) Lokaty standardowe złotowe Private Banking1
+Stopa procentowa za
+Oprocentowanie przedterminową
+Rodzaj lokaty
+nominalne wypłatę środków
+pieniężnych
+Lokata terminowa PLN
+(stała stopa procentowa)
+7 dniowa2
+0,01%
+>= 1000,00 PLN
+1 miesięczna2
+0,01%
+>= 1000,00 PLN
+2 miesięczna2
+0,01%
+>= 1000,00 PLN
+3 miesięczna
+0,50% 0,01%
+>= 1000,00 PLN
+4 miesięczna2
+0,01%
+>= 1000,00 PLN
+6 miesięczna
+0,50%
+>= 1000,00 PLN
+12 miesięczna2
+0,01%
+>= 1000,00 PLN
+Lokata terminowa PLN
+(zmienna stopa procentowa)
+12 miesięczna2
+0,01% 0,01%
+>= 1000,00 zł
+1 klientom Private Banking przysługuje prawo negocjacji oprocentowania PLN
+2 lokata wycofana ze sprzedaży od dnia 01.09.2021 r.
+b) Lokaty standardowe walutowe Private Banking
+Stopa procentowa za
+Oprocentowanie przedterminową
+Rodzaj lokaty
+nominalne wypłatę środków
+pieniężnych
+Lokata terminowa USD
+(stała stopa procentowa)
+1 miesięczna1
+0,01%
+>=1000,00 USD
+3 miesięczna
+0,01%
+>=1000,00 USD
+0,01%
+6 miesięczna
+0,01%
+>=1000,00 USD
+12 miesięczna1
+0,01%
+>=1000,00 USD
+Lokata terminowa USD
+(zmienna stopa procentowa)
+3 miesięczna
+0,01%
+>=1000,00 USD
+6 miesięczna
+0,01% 0,01%
+>=1000,00 USD
+12 miesięczna1
+0,01%
+>=1000,00 USD
+Lokata terminowa EUR
+(stała stopa procentowa)
+3/51 miesięczna1
+0,01%
+>=1000,00 EUR
+3 miesięczna
+0,01%
+>=1000,00 EUR
+0,01%
+6 miesięczna
+0,01%
+>=1000,00 EUR
+12 miesięczna1
+0,01%
+>=1000,00 EUR
+Lokata terminowa EUR
+(zmienna stopa procentowa)
+3 miesięczna
+0,01%
+>=1000,00 EUR
+6 miesięczna
+0,01% 0,01%
+>=1000,00 EUR
+12 miesięczna1
+0,01%
+>=1000,00 EUR
+Lokata terminowa GBP
+(stała stopa procentowa)
+1 miesięczna1
+0,01%
+>=1000,00 GBP
+3 miesięczna
+0,01%
+>=1000,00 GBP
+0,01%
+6 miesięczna
+0,01%
+>=1000,00 GBP
+12 miesięczna1
+0,01%
+>=1000,00 GBP
+Lokata terminowa GBP
+(zmienna stopa procentowa)
+3 miesięczna
+0,01%
+>=1000,00 GBP
+6 miesięczna
+0,01% 0,01%
+>=1000,00 GBP
+12 miesięczna1
+0,01%
+>=1000,00 GBP
+1 lokata wycofana ze sprzedaży od dnia 01.09.2021 r.
+IV. Kredyt odnawialny Private Banking
+Należności przeterminowane
+Rodzaj kredytu
+(zmienna stopa procentowa)
+Kredyt odnawialny Private Banking
+(dotyczy umów zawartych lub aneksowanych na 19,00%
+podstawie wniosków złożonych do 09.05.2016 r.)
+Kredyt odnawialny Private Banking
+(dotyczy umów zawartych lub aneksowanych na 23,00%
+podstawie wniosków zło
