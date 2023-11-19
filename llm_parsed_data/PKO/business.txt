@@ -1,0 +1,20 @@
+Środki pieniężne na rachunkach lokat terminowych: 1) Stopa procentowa w stosunku rocznym
+1) ze zmienną stopą procentową, zadeklarowane na okres:
+ a) 12 miesięcy
+ b) 6 miesięcy
+0,01
+0,01
+2) ze stałą stopą procentową, zadeklarowane na okres:
+a) 3 miesięcy
+b) 2 miesięcy
+c) 1 miesiąca
+d) 21 dni
+e) 14 dni
+f) 7 dni
+0,01
+0,01
+0,01
+0,01
+0,01
+0,01
+2 października 2023 r.; 0,01%

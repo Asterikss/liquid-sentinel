@@ -1,0 +1,12 @@
+SALDO OPROCENTOWANIE
+do 10 000 zł 0,01%
+powyżej 10 000 zł 0,01%
+LOKATY O STAŁYM OPROCENTOWANIU
+TERMINY OPROCENTOWANIE
+OVERNIGHT Aktualna informacja o wysokości oprocentowania lokat OVERNIGHT
+zakładanej w rachunku bankowym, dostępna jest w placówkach Banku
+Pocztowego S.A. oraz w formie Komunikatu na www.pocztowy.pl
+3M 0,01%
+6M 0,01%
+12M 0,01%
+08 czerwca 2020 r; 0,01%

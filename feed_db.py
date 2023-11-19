@@ -65,7 +65,7 @@ for root, dirs, files in os.walk(directory):
             print(date_obj)
             date = {
                 "bank_name": bank,
-                "pivate_offer": is_private_offer,
+                "private_offer": is_private_offer,
                 "interest_rate": interest_rate,
                 "date": date_obj,
             }
