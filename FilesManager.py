@@ -2,9 +2,9 @@ import os
 import shutil
 
 
-class FilesScrapper:
+class FilesManager:
     @staticmethod
-    def getAll():
+    def get_all_bank_data_PDFs_paths():
         banks_dir = "banks"
         pdfs = []
         for bank_name in os.listdir(banks_dir):
@@ -18,9 +18,9 @@ class FilesScrapper:
         return pdfs
 
     @staticmethod
-    def getBest():
+    def try_getting_best_bank_data_PDFs():
         true_banks = "tr_banks"
-        for pdf_full_path in FilesScrapper.getAll():
+        for pdf_full_path in FilesManager.get_all_bank_data_PDFs_paths():
             parts = pdf_full_path.split("/")
             bank_name = parts[1]
             type = parts[2]
@@ -35,4 +35,4 @@ class FilesScrapper:
                     os.mkdir(true_banks + "/" + bank_name + "/" + type)
                 shutil.copy(pdf_full_path, true_banks + "/" + bank_name + "/" + type)
 
-FilesScrapper.getBest()
+FilesManager.try_getting_best_bank_data_PDFs()
