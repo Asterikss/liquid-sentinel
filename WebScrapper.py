@@ -144,14 +144,14 @@ class WebScrapper:
                                             WebScrapper.clean(element.text)) + "_" + code
                                         request.urlretrieve(href, pdf_dir)
                                     except Exception:
-                                        print("ERROR!", href, pdf_dir)
+                                        print("EXCEPTION!", href, pdf_dir)
                                 else:
                                     try:
                                         pdf_dir = bank_dir + bank.bank_name + "/" + rodz + "/" + "nottitled" + "/" + code
                                         i += 1
                                         request.urlretrieve(href, pdf_dir)
                                     except Exception:
-                                        print("ERROR!", href, pdf_dir)
+                                        print("EXCEPTION!", href, pdf_dir)
                             except (selenium.common.exceptions.StaleElementReferenceException,
                                     selenium.common.exceptions.NoSuchElementException):
                                 pass
