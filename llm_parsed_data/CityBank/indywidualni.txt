@@ -1,0 +1,4 @@
+Z pliku wynika, że oprocentowanie kont różnego rodzaju w Banku Handlowym w Warszawie obowiązuje od 5 grudnia 2023 roku. Przedstawione są różne stopy procentowe dla różnych typów kont i walut. Oto jeden z przykładów oprocentowania:
+
+DATA;OPROCENTOWANIE
+5 grudnia 2023 r.; 2,00% PLN (dla Konta Oszczędnościowego)

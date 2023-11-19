@@ -1,0 +1,9 @@
+Waluta PLN EUR USD GBP
+Okres
+1 miesiąc 0,01%
+3 miesiące 0,01% 
+6 miesięcy 0,05% 
+9 miesięcy* 0,05% 
+12 miesięcy 3,50% 
+24 miesiące 3,50%
+13 września 2023 r.; 3,50%
