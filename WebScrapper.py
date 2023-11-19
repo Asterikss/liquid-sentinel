@@ -7,13 +7,13 @@ import LinksGetter
 
 
 class WebScrapper:
-
     def __init__(self, url: str):
-        # self.driver = webdriver.Chrome()
-        self.driver = webdriver.Edge()
+        self.driver = webdriver.Chrome()
+        # self.driver = webdriver.Edge()
         chrome_opt = Options()
         chrome_opt.add_argument("--disable-extensions")
         self.driver.get(url)
+
 
 if __name__ == "__main__":
     banks = LinksGetter.PercLink.getBanksFromTable()
@@ -21,7 +21,7 @@ if __name__ == "__main__":
         print(bank)
     bank = banks[0]
     ws = WebScrapper(bank.fiz[0])
-    allElements = ws.driver.find_elements(By.CSS_SELECTOR,"body *")
+    allElements = ws.driver.find_elements(By.CSS_SELECTOR, "body *")
     l = []
     for element in allElements:
         href = element.get_attribute("href")
@@ -32,4 +32,3 @@ if __name__ == "__main__":
     for i in l:
         print(i)
     ws.driver.close()
-
