@@ -15,7 +15,7 @@ def get_bank_sites(url: str):
         parent = find.parent.parent
         for child in parent.children:
             if "lokat" in child.text.lower() and any(x in child.text.lower() for x in ("regul", "tabel")):
-                lokats.append(find['href'])
+                lokats.append("https://www.bankmillennium.pl"+find['href'])
     print(lokats)
 
 
@@ -26,7 +26,7 @@ def main():
     # for record in sites['Osoby fizyczne'].dropna():
     #     for site in record.split(" ") if " " in record else [record]:
     #         get_bank_sites(site)
-    get_bank_sites('https://www.velobank.pl/klienci-indywidualni/centrum-dokumentow')
+    get_bank_sites('https://www.bankmillennium.pl/klienci-indywidualni/wsparcie/cenniki-i-regulaminy')
 
 
 if __name__ == "__main__":
